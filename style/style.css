@@ -1,0 +1,65 @@
+/* index.php */
+.icon-navbar {
+    margin-right: 10px;
+}
+
+.icon-navbar:hover {
+    cursor: pointer;
+}
+
+.content {
+    min-height: 100vh;
+}
+
+.nav-link:hover {
+    background-color: gray;
+}
+
+.display-4 {
+    font-weight: bold;
+}
+
+.card-body-icon {
+    position: absolute;
+    z-index: 0;
+    top: 25px;
+    right: 4px;
+    opacity: 0.4;
+    font-size: 90px;
+}
+
+.link-card-body {
+    text-decoration: none;
+}
+
+.icon-action:hover {
+    cursor: pointer;
+}
+
+.link-icon-action {
+    text-decoration: none;
+}
+
+/* anggota.php */
+.icon-plus:hover {
+    cursor: pointer;
+    font-size: 45px;
+    text-decoration: none;
+}
+
+.link-icon-plus {
+    color: white;
+}
+
+.input-filter:hover {
+    border-color: brown;
+}
+
+.input-add:hover {
+    border-color: brown;
+}
+
+.input-edit:hover {
+    border-color: brown;
+}
+
